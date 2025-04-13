@@ -159,30 +159,4 @@ def send_follow_up(user_id):
 
 if __name__ == "__main__":
     print("\U0001F680 AssistBot is running...")
-    app.run(host="0.0.0.0", port=8080)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
+    app.run(host="0.0.0.0", port=8080)   
