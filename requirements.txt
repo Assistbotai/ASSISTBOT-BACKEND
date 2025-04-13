@@ -1,0 +1,4 @@
+flask
+openai
+pyttsx3
+stripe
